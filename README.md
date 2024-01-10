@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassanistic
 - 👀 I’m interested in frontend development
-- 👩‍💻 I'm working on HTML,CSS and Javascript Techmoogies
+- 👩‍💻 I'm working on HTML,CSS and Javascript Technolgies
 - 🌱 I’m currently learning from coursera.org
 - 📫 How to reach me www.linkedin.com/in/hassanalirehmat
 
